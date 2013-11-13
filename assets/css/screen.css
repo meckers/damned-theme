@@ -1,11 +1,13 @@
 body {
     font-size: 14px;
     font-family: 'Raleway', 'Arial', 'Verdana', sans-serif;
-    background-color: aliceblue;
+    /*background-color: #FCFBF7;*/
+    background-color: #FCFBFA;
 }
 
 a {
-    color: #860079;
+    color: #A88080;
+    text-decoration: none;
 }
 
 
@@ -34,6 +36,7 @@ header#site-head .title {
 }
 header#site-head .title .blog-title {
     font-family: 'Viga';
+    font-size: 2.5em;
 }
 header#site-head .title .blog-description {
     color: #909090;
@@ -60,9 +63,14 @@ main article header div.post-meta {
 }
 
 main article header div.post-meta .tags {
-    color: #C79C9C;
+    color: #CFB3B3;
     margin-top: 4px;
     font-size: 0.9em;
+}
+
+main article header div.post-meta .tags .hashtag {
+    font-weight: bold;
+    color: black;
 }
 
 main article header h1 {
@@ -74,12 +82,41 @@ main article header h1 {
 }
 
 main article header h1 a {
-    text-decoration: none;
+    color: #CFB3B3;
 }
 
 main article p {
     line-height: 24px;
     font-size: 1.2em;
+}
+
+main article p a {
+    text-decoration: none;
+    border-bottom: 1px dotted #A88080;
+}
+
+main article p a:hover {
+    border-bottom-style: solid;
+}
+
+main article p strong {
+    font-size: 1.1em;
+}
+
+main article p code {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+main article pre code {
+    border: 1px solid #dfdfdf;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: #fff;
+    font-size: 0.9em;
+    margin-left: 10px;
+    max-width: 540px;
+    display: block;
 }
 
 

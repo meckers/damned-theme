@@ -4,8 +4,8 @@
     <list default="true" id="535e1d55-4054-46c3-aa5d-84bdffbbe55a" name="Default" comment="" />
     <ignored path="vapor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/views/map-navigation-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384333673358" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/stylesheets/map/responsive-map.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345166007" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/views/map-navigation-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384351359049" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/stylesheets/map/responsive-map.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384351359049" ignored="false" />
     <file path="/map-simple.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1382967875250" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/public/lib/v1.0/examples/map-simple.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383040582030" ignored="false" />
     <file path="/a.dummy" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383147697390" ignored="false" />
@@ -18,7 +18,7 @@
     <file path="/map-navigation-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383054014474" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/views/map-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345166007" ignored="false" />
     <file path="/map-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383060292011" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/mediator.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/mediator.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384351359049" ignored="false" />
     <file path="/mediator.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383054533283" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/app/views/tags/details/address-list.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383055002459" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/geb-mob-test/src/test/groovy/Map/tests/PartnerMapSpec.groovy" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383055002459" ignored="false" />
@@ -53,8 +53,8 @@
     <file path="/LICENSE" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384328753983" ignored="false" />
     <file path="/README.md" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384328823818" ignored="false" />
     <file path="/default.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384332637381" ignored="false" />
-    <file path="/index.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384342142445" ignored="false" />
-    <file path="/screen.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384344157672" ignored="false" />
+    <file path="/index.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345553124" ignored="false" />
+    <file path="/screen.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384348353971" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/conf/messages.sv" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/app/controllers/ResultController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/app/controllers/DetailController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
@@ -135,7 +135,7 @@
       <file leaf-file-name="screen.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/screen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="18" selection-start="696" selection-end="696" vertical-scroll-proportion="0.60913706">
+            <state line="82" column="73" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.37563452">
               <folding />
             </state>
           </provider>
@@ -162,7 +162,7 @@
       <file leaf-file-name="index.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="25" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+            <state line="22" column="76" selection-start="769" selection-end="776" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -171,7 +171,7 @@
       <file leaf-file-name="default.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/default.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="9" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
+            <state line="16" column="33" selection-start="820" selection-end="820" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -577,20 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="25" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/default.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="9" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="73" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
@@ -598,9 +584,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/default.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="820" selection-end="820" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="76" selection-start="769" selection-end="776" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/screen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="18" selection-start="696" selection-end="696" vertical-scroll-proportion="0.60913706">
+        <state line="82" column="73" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.37563452">
           <folding />
         </state>
       </provider>
