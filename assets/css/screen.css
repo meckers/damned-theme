@@ -12,7 +12,7 @@ a {
 
 
 main {
-    max-width: 600px;
+    max-width: 650px;
 }
 
 
@@ -55,8 +55,20 @@ header#site-head .title .blog-description {
     margin-bottom: 30px;
 }
 
+main article header h1 {
+    font-size: 2.2em;
+    max-width: 400px;
+    display: inline-block;
+    font-family: 'Contrail One';
+    margin-bottom: 0px;
+}
+
+main article header h1 a {
+    color: #CFB3B3;
+}
+
 main article header div.post-meta {
-    max-width: 300px;
+    width: 180px;
     display: inline-block;
     float: right;
     margin-top: 22px;
@@ -73,21 +85,16 @@ main article header div.post-meta .tags .hashtag {
     color: black;
 }
 
-main article header h1 {
-    font-size: 2.2em;
-    max-width: 400px;
-    display: inline-block;
-    font-family: 'Contrail One';
-    margin-bottom: 0px;
-}
 
-main article header h1 a {
-    color: #CFB3B3;
+main article h3 {
+    margin-top: 30px;
+    font-size: 1.3em;
+    color: #A87676;
 }
 
 main article p {
     line-height: 24px;
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 main article p a {
@@ -106,6 +113,12 @@ main article p strong {
 main article p code {
     font-size: 0.9em;
     font-weight: bold;
+}
+
+main article ul li,
+main article ol li {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 main article pre code {

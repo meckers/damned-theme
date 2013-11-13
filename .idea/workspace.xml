@@ -53,8 +53,8 @@
     <file path="/LICENSE" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384328753983" ignored="false" />
     <file path="/README.md" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384328823818" ignored="false" />
     <file path="/default.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384332637381" ignored="false" />
-    <file path="/index.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345553124" ignored="false" />
-    <file path="/screen.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384348353971" ignored="false" />
+    <file path="/index.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384353605842" ignored="false" />
+    <file path="/screen.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384353634092" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/conf/messages.sv" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/app/controllers/ResultController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/app/controllers/DetailController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
@@ -135,7 +135,7 @@
       <file leaf-file-name="screen.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/screen.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="73" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.37563452">
+            <state line="61" column="26" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.44162437">
               <folding />
             </state>
           </provider>
@@ -162,7 +162,7 @@
       <file leaf-file-name="index.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="76" selection-start="769" selection-end="776" vertical-scroll-proportion="0.0">
+            <state line="29" column="21" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -593,14 +593,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="76" selection-start="769" selection-end="776" vertical-scroll-proportion="0.0">
+        <state line="29" column="21" selection-start="975" selection-end="975" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/screen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="73" selection-start="1437" selection-end="1437" vertical-scroll-proportion="0.37563452">
+        <state line="61" column="26" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.44162437">
           <folding />
         </state>
       </provider>
