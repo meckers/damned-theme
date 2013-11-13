@@ -1,9 +1,13 @@
 {{!< default}}
 
 <header id="site-head">
-    {{#if @blog.logo}}<a id="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
-    <h1 class="blog-title"><a href="{{@blog.url}}">{{@blog.title}}</a></h1>
-    <h2 class="blog-description">{{@blog.description}}</h2>
+    <div class="logo">
+        {{#if @blog.logo}}<a id="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
+    </div>
+    <div class="title">
+        <h1 class="blog-title">{{@blog.title}}</h1>
+        <h2 class="blog-description">{{@blog.description}}</h2>
+    </div>
 </header>
 
 <main class="content" role="main">
@@ -13,11 +17,17 @@
     <article class="preview">
         <header>
         <h1 class="post-title"><a href="{{url}}">{{{title}}}</a></h1>
-        <div class="post-meta"><time datetime="{{date format='YYYY-MM-DD'}}">{{date format="dddd, MMMM DD, YYYY"}}</time></div>
+        <div class="post-meta">
+            <time datetime="{{date format='YYYY-MM-DD'}}">{{date format="dddd, MMMM DD, YYYY"}}</time>
+            <div class="tags">
+                {{#if tags}}<div class="post-meta tags">{{tags}}</div>{{/if}}
+            </div>
+        </div>
         </header>
         <section class="post-excerpt">
-            <p>{{excerpt}}&hellip;</p>
+            <p>{{content}}</p>
         </section>
+        <!--a class="continue" href="{{url}}">Continue reading this article</a-->
     </article>
 
     {{/foreach}}

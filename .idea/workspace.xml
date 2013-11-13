@@ -4,8 +4,8 @@
     <list default="true" id="535e1d55-4054-46c3-aa5d-84bdffbbe55a" name="Default" comment="" />
     <ignored path="vapor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/views/map-navigation-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/stylesheets/map/responsive-map.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383300247872" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/views/map-navigation-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384333673358" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/stylesheets/map/responsive-map.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345166007" ignored="false" />
     <file path="/map-simple.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1382967875250" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/public/lib/v1.0/examples/map-simple.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383040582030" ignored="false" />
     <file path="/a.dummy" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383147697390" ignored="false" />
@@ -16,7 +16,7 @@
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/models/map-params.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383060581984" ignored="false" />
     <file path="/map-params.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383059900312" ignored="false" />
     <file path="/map-navigation-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383054014474" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/views/map-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383125097742" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/views/map-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345166007" ignored="false" />
     <file path="/map-view.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383060292011" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/mediator.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
     <file path="/mediator.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383054533283" ignored="false" />
@@ -31,25 +31,38 @@
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/html/testdata/mapPoint-prisjakt.xml" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383136728888" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/html/examples/partnermap-iframe-with-mpu.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
     <file path="/partnermap-iframe-with-mpu.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383138074275" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/models/search-model.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
-    <file path="/Dummy.txt" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217431698" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/models/search-model.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345166007" ignored="false" />
+    <file path="/Dummy.txt" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330853487" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/own/tyckr/.idea/workspace.xml" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383215871051" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/app/controllers/PartnerController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/html/examples/svenskfast-branch-oldurl.html" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/conf/routes" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217447292" ignored="false" />
     <file path="/recorder.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383229245226" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/streetview/recorder.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383229248202" ignored="false" />
-    <file path="/*.regexp" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383306469666" ignored="false" />
+    <file path="/*.regexp" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384338635572" ignored="false" />
     <file path="/streetview-manager.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383228623463" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/streetview/streetview-manager.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383300247872" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/build/loadfiles/streetview.js.concat" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383300247872" ignored="false" />
     <file path="/streetview.js.concat" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217775674" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/build/loadfiles/map.js.concat" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383300247872" ignored="false" />
     <file path="/map.js.concat" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383217803454" ignored="false" />
-    <file path="/responsive-map.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383218039653" ignored="false" />
+    <file path="/responsive-map.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384344724022" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/strategies/overlay/common.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383306475168" ignored="false" />
     <file path="/common.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383301941622" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/javascripts/geo/map/strategies/map/common.js" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1383301783069" ignored="false" />
+    <file path="/LICENSE" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384328753983" ignored="false" />
+    <file path="/README.md" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384328823818" ignored="false" />
+    <file path="/default.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384332637381" ignored="false" />
+    <file path="/index.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384342142445" ignored="false" />
+    <file path="/screen.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384344157672" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/conf/messages.sv" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/app/controllers/ResultController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/app/controllers/DetailController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330855476" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/web/src/hittaplay/public/stylesheets/web/map/layout.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330953090" ignored="false" />
+    <file path="/layout.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384330942009" ignored="false" />
+    <file path="/post.hbs" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384332964162" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/public/stylesheets/start.css" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345166007" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../../play-projects/hitta/mobile/app/controllers/VCardController.java" changelist="535e1d55-4054-46c3-aa5d-84bdffbbe55a" time="1384345166007" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,10 +123,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="post.hbs" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/normalize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="38" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/screen.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="18" selection-start="696" selection-end="696" vertical-scroll-proportion="0.60913706">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen kopia.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/screen kopia.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="113" selection-start="232" selection-end="232" vertical-scroll-proportion="0.07079646">
+            <state line="23" column="0" selection-start="692" selection-end="826" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.hbs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="25" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.hbs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/default.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="9" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="73" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,10 +193,22 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LICENSE" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/default.hbs" />
+        <option value="$PROJECT_DIR$/post.hbs" />
+        <option value="$PROJECT_DIR$/index.hbs" />
+        <option value="$PROJECT_DIR$/assets/css/screen.css" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1388" />
-    <option name="height" value="1178" />
+    <option name="width" value="1484" />
+    <option name="height" value="1330" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -159,42 +238,101 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vapor" />
+              <option name="myItemId" value="damned" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vapor" />
+              <option name="myItemId" value="damned" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="damned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="damned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="damned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="damned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="damned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="damned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="damned" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -304,33 +442,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1388" height="1178" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1484" height="1330" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25633383" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23922114" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -394,13 +532,167 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/post.hbs">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="113" selection-start="232" selection-end="232" vertical-scroll-proportion="0.07079646">
+        <state line="21" column="44" selection-start="1090" selection-end="1090" vertical-scroll-proportion="-14.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/js.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="36" selection-start="348" selection-end="348" vertical-scroll-proportion="0.2284264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="38" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/screen kopia.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="692" selection-end="826" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="25" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="73" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="18" selection-start="696" selection-end="696" vertical-scroll-proportion="0.60913706">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>js</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
