@@ -61,6 +61,7 @@ main article header h1 {
     display: inline-block;
     font-family: 'Contrail One';
     margin-bottom: 0px;
+    margin-left: 20px;
 }
 
 main article header h1 a {
@@ -68,10 +69,15 @@ main article header h1 a {
 }
 
 main article header div.post-meta {
-    width: 180px;
+    width: 100px;
     display: inline-block;
-    float: right;
-    margin-top: 22px;
+    margin-top: 30px;
+    vertical-align: top;
+    border-right: 1px solid #efefef;
+}
+
+main article header div.post-meta time {
+    display: block;
 }
 
 main article header div.post-meta .tags {
