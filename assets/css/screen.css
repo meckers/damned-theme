@@ -1,6 +1,6 @@
 body {
     font-size: 14px;
-    font-family: 'Raleway', 'Arial', 'Verdana', sans-serif;
+    font-family: 'Source Sans Pro', 'Times', 'Verdana', sans-serif;
     /*background-color: #FCFBF7;*/
     background-color: #FCFBFA;
 }
@@ -100,7 +100,7 @@ main article h3 {
 
 main article p {
     line-height: 24px;
-    font-size: 1.1em;
+    font-size: 1.3em;
 }
 
 main article p a {
@@ -136,6 +136,14 @@ main article pre code {
     margin-left: 10px;
     max-width: 540px;
     display: block;
+}
+
+main article blockquote {
+    margin-left: 0px;
+    padding-left: 10px;
+    border-left: 5px solid #CFB3B3;
+    color: #606060;
+    font-style: italic;
 }
 
 
