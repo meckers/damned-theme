@@ -8,6 +8,7 @@
         <h1 class="blog-title">{{@blog.title}}</h1>
         <h2 class="blog-description">{{@blog.description}}</h2>
     </div>
+    <div class="delimiter"></div>
 </header>
 
 <main class="content" role="main">
@@ -24,10 +25,10 @@
                 {{#if tags}}<div class="post-meta tags"><span class="hashtag">#</span>&nbsp;{{tags}}</div>{{/if}}
             </div>
         </div>
-        <h1 class="post-title"><a href="{{url}}">{{{title}}}</a></h1>
+        <h1 class="post-title" title="{{#if tags}}{{tags}}{{/if}}"><a href="{{url}}">{{{title}}}</a></h1>
         </header>
-        <section class="post-excerpt">
-            <p>{{content}}</p>
+        <section class="post-body">
+            <p><span class="time">It is {{date format="MMMM DD"}}.</span>{{content}}</p>
         </section>
         <!--a class="continue" href="{{url}}">Continue reading this article</a-->
     </article>
