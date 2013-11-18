@@ -1,13 +1,17 @@
 {{!< default}}
 
 <header id="site-head">
-    <div class="logo">
-        {{#if @blog.logo}}<a id="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
+
+    <div class="header-content">
+        <div class="logo">
+            {{#if @blog.logo}}<a id="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
+        </div>
+        <div class="title">
+            <h1 class="blog-title">{{@blog.title}}</h1>
+            <h2 class="blog-description">{{@blog.description}}</h2>
+        </div>
     </div>
-    <div class="title">
-        <h1 class="blog-title">{{@blog.title}}</h1>
-        <h2 class="blog-description">{{@blog.description}}</h2>
-    </div>
+    <div class="background"></div>
     <div class="delimiter"></div>
 </header>
 
