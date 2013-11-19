@@ -16,6 +16,9 @@ a {
     color: #E2756B;
 }
 
+
+/* ---------------- HEADER --------------  */
+
 header#site-head {
     position: relative;
     height: 75px;
@@ -91,6 +94,10 @@ header#site-head .delimiter {
     width: 100%;
 }
 
+
+
+/* ----------------- ARTICLE ------------------- */
+
 article .post-meta {
     display: none;
 }
@@ -150,4 +157,84 @@ pre {
     padding: 30px;
     font-size: 0.8em;
     line-height: 20px;
+}
+
+/* -------------------- FOOOTER ------------------ */
+
+footer#site-footer {
+    position: relative;
+    height: 75px;
+    background-image: url(/assets/images/binding_light.png);
+    width: 100%;
+    height: 75px;
+}
+
+footer#site-footer .background {
+
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(88,88,88,0) 86%, rgba(102,102,102,0.65) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(86%,rgba(88,88,88,0)), color-stop(100%,rgba(102,102,102,0.65))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(88,88,88,0) 86%,rgba(102,102,102,0.65) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(88,88,88,0) 86%,rgba(102,102,102,0.65) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(88,88,88,0) 86%,rgba(102,102,102,0.65) 100%); /* IE10+ */
+    background: linear-gradient(to top,  rgba(0,0,0,0) 0%,rgba(88,88,88,0) 83%,rgba(102,102,102,0.65) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6666666',GradientType=0 ); /* IE6-9 */
+    height: 75px;
+}
+
+footer#site-footer .footer-content {
+    position: absolute;
+    height: 32px;
+    padding: 14px;
+    z-index: 10;
+}
+
+footer#site-footer div.logo,
+footer#site-footer div.title {
+    display: inline-block;
+    float: left;
+}
+
+footer#site-footer #blog-logo img {
+    width: 40px;
+    height: 40px;
+}
+
+footer#site-footer .title {
+    margin-bottom: 4px;
+    margin-left: 12px;
+}
+
+footer#site-footer h1 {
+    display: inline-block;
+    float: left;
+    margin: 0;
+}
+
+footer#site-footer .blog-title {
+    font-family: 'Oswald';
+    max-width: 200px;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+footer#site-footer .blog-description {
+    display: none;
+    font-size: 1em;
+    max-width: 600px;
+}
+
+footer#site-footer .delimiter {
+    height: 10px;
+    background-image: url(/assets/images/tagg-down.png);
+    top: 0px;
+    position: absolute;
+    z-index: 1000;
+    width: 100%;
+}
+
+footer .info {
+    display: inline-block;
+    float: left;
+    padding: 20px;
+    border-left: 1px solid #9c9c9c;
 }
